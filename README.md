@@ -1,2 +1,2 @@
 # lua
-lua hand code and general projects
+lua hand code and general project
